@@ -1,3 +1,13 @@
-h1 {
-    color: brown;
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: "Lato", "Rubik", sans-serif;
 }
+
+section {
+	background-color: #eff2f9;
+	height: 100vh;
+}
+
+
